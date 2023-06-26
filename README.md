@@ -1,6 +1,6 @@
 # Movie Application
 
-A Netflix clone built using React.js and the Movie Database (TMDB) API.
+A Netflix clone built using React.js.
 
 ## Description
 
