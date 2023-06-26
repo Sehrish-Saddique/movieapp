@@ -13,6 +13,10 @@ This project is a clone of the Netflix website that allows users to browse and w
 - User authentication and account management
 - Responsive design for mobile and desktop devices
 
+## Demo
+
+You can check out a live demo of the application [here](https://creative-sorbet-96d1b6.netlify.app/).
+
 ## Screenshots
 
 ![Screenshot 1](https://github.com/Sehrish-Saddique/movieapp/blob/main/Screenshot%20(107).png)
