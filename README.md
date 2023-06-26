@@ -1,31 +1,47 @@
-# React Movie App
+# Movie Application
 
-This is a React-based movie app developed for Bytewise Limited Company. The app allows users to search for movies, view movie details, and save their favorite movies to a watchlist.
+A Netflix clone built using React.js and the Movie Database (TMDB) API.
+
+## Description
+
+This project is a clone of the Netflix website that allows users to browse and watch movies and TV shows. It was created as part of a tutorial series on YouTube by [Sunil Kumar](https://www.youtube.com/watch?v=PCBUcSoiEu4&list=PPSV). The application fetches movie and TV show data from the TMDB API and provides a user-friendly interface to browse and play content.
 
 ## Features
 
-- Search for movies using keywords.
-- View detailed information about a selected movie, including the title, release date, overview, and poster.
-- Add movies to a watchlist and remove them from the watchlist.
-- Responsive design for optimal viewing on different devices.
-- Pagination for search results.
+- Browse and search for movies and TV shows
+- Watch trailers and additional details for each title
+- User authentication and account management
+- Responsive design for mobile and desktop devices
+
+## Screenshots
+
+![Screenshot 1](https://github.com/Sehrish-Saddique/movieapp/blob/main/Screenshot%20(107).png)
+![Screenshot 2](https://github.com/Sehrish-Saddique/movieapp/blob/main/Screenshot%20(108).png)
+
+## Installation
+
+To run this application locally, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/sunil9813/Netfilx-Clone.git`
+2. Navigate to the project directory: `cd Netfilx-Clone`
+3. Install the dependencies: `npm install`
+4. Create a `.env` file in the project root directory and add your TMDB API key: `REACT_APP_TMDB_API_KEY=your_api_key`
+5. Start the development server: `npm start`
+6. Open your browser and visit `http://localhost:3000` to view the application.
 
 ## Technologies Used
 
-- React: JavaScript library for building user interfaces.
-- Axios: Promise-based HTTP client for making API requests.
-- React Router: Library for routing and navigation in a React application.
+- React.js
+- TMDB API
+- HTML
+- CSS
+- JavaScript
 
-## Prerequisites
+## Credits
 
-Before running the app, ensure that you have the following installed on your machine:
+- This project is based on the tutorial series by [Sunil Kumar](https://www.youtube.com/watch?v=PCBUcSoiEu4&list=PPSV).
+- The movie and TV show data is provided by the [TMDB API](https://www.themoviedb.org/documentation/api).
 
-- Node.js: JavaScript runtime environment
-- npm: Package manager for Node.js
+## License
 
-## Getting Started
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Sehrish-Saddique/movieapp.git
+This project is licensed under the [MIT License].
