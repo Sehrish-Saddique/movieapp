@@ -4,7 +4,7 @@ A Netflix clone built using React.js and the Movie Database (TMDB) API.
 
 ## Description
 
-This project is a clone of the Netflix website that allows users to browse and watch movies and TV shows. It was created as part of a tutorial series on YouTube by [Sunil Kumar](https://www.youtube.com/watch?v=PCBUcSoiEu4&list=PPSV). The application fetches movie and TV show data from the TMDB API and provides a user-friendly interface to browse and play content.
+This project is a clone of the Netflix website that allows users to browse and watch movies and TV shows. It was created as part of a tutorial series on YouTube by [Sunil Kumar](https://www.youtube.com/watch?v=PCBUcSoiEu4&list=PPSV). The application fetches movie and TV show data from the dummydata file and provides a user-friendly interface to browse and play content.
 
 ## Features
 
@@ -32,7 +32,6 @@ To run this application locally, follow these steps:
 ## Technologies Used
 
 - React.js
-- TMDB API
 - HTML
 - CSS
 - JavaScript
@@ -40,8 +39,7 @@ To run this application locally, follow these steps:
 ## Credits
 
 - This project is based on the tutorial series by [Sunil Kumar](https://www.youtube.com/watch?v=PCBUcSoiEu4&list=PPSV).
-- The movie and TV show data is provided by the [TMDB API](https://www.themoviedb.org/documentation/api).
-
+ 
 ## License
 
 This project is licensed under the [MIT License].
